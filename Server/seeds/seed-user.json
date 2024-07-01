@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "admin1",
+    "email": "admin1@mail.com",
+    "password": "123456",
+    "phoneNumber": "0879564321",
+    "role": "Admin",
+    "address": "jl yang benar",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNq-fhMeQRIAFfcfgPFaQDO8yTQ_SOW1-6raA_0HgiiKDJTV0TkDiojPT98h40g8T4FAk&usqp=CAU"
+  },
+  {
+    "fullName": "admin2",
+    "email": "admin2@mail.com",
+    "password": "123456",
+    "phoneNumber": "0879543216",
+    "role": "Admin",
+    "address": "jl kebenaran",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNq-fhMeQRIAFfcfgPFaQDO8yTQ_SOW1-6raA_0HgiiKDJTV0TkDiojPT98h40g8T4FAk&usqp=CAU"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "name": "Charizard",
+    "stat": 109,
+    "ability": "Blaze",
+    "type": "Flying",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "name": "Blastoise",
+    "stat": 105,
+    "ability": "Torrent",
+    "type": "Water",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+    "name": "Metapod",
+    "stat": 55,
+    "ability": "Shed Skin",
+    "type": "Bug",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "name": "Pikachu",
+    "stat": 90,
+    "ability": "Static",
+    "type": "Electric",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "name": "Raichu",
+    "stat": 110,
+    "ability": "Static",
+    "type": "Electric",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+    "name": "Ninetales",
+    "stat": 100,
+    "ability": "Drought",
+    "type": "Fire",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "name": "Arcanine",
+    "stat": 110,
+    "ability": "Intimidate",
+    "type": "Fire",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+    "name": "Rhydon",
+    "stat": 130,
+    "ability": "Rock Head",
+    "type": "Ground",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "name": "Eevee",
+    "stat": 65,
+    "ability": "Adaptability",
+    "type": "Normal",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+    "name": "Ditto",
+    "stat": 48,
+    "ability": "Imposter",
+    "type": "Normal",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+    "name": "Kabutops",
+    "stat": 115,
+    "ability": "Swift Swim",
+    "type": "Rock",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "name": "Aerodactyl",
+    "stat": 130,
+    "ability": "Rock Head",
+    "type": "Flying",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "name": "Articuno",
+    "stat": 125,
+    "ability": "Pressure",
+    "type": "Ice",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+    "name": "Zapdos",
+    "stat": 125,
+    "ability": "Pressure",
+    "type": "Electric",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+    "name": "Moltres",
+    "stat": 100,
+    "ability": "Pressure",
+    "type": "Fire",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "name": "Mewtwo",
+    "stat": 154,
+    "ability": "Pressure",
+    "type": "Psychic",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+    "name": "Mew",
+    "stat": 100,
+    "ability": "Synchronize",
+    "type": "Psychic",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png",
+    "name": "Typhlosion",
+    "stat": 109,
+    "ability": "Blaze",
+    "type": "Fire",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+    "name": "Umbreon",
+    "stat": 110,
+    "ability": "Synchronize",
+    "type": "Dark",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+    "name": "Espeon",
+    "stat": 130,
+    "ability": "Synchronize",
+    "type": "Psychic",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
+    "name": "Lugia",
+    "stat": 154,
+    "ability": "Pressure",
+    "type": "Flying",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
+    "name": "Ho-Oh",
+    "stat": 154,
+    "ability": "Regenerator",
+    "type": "Flying",
+    "price": 200000
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+    "name": "Celebi",
+    "stat": 100,
+    "ability": "Natural Cure",
+    "type": "Psychic",
+    "price": 200000
+  }
+]
